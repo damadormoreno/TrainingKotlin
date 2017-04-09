@@ -19,3 +19,4 @@
         android:background="@color/colorPrimary"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium.Inverse"
         tools:text="Title"/>
+</LinearLayout>
